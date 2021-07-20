@@ -1,4 +1,4 @@
-# dyte-recruit
+# basic-online-code-editor
 Welcome to com.Code, a three-way browser run code editor to create webpages
 
 In order to run the program, simply double click and run the "comCode.bat" batch file.
